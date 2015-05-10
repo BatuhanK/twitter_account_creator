@@ -1,0 +1,24 @@
+{
+  "name": "twitter_account_creator",
+  "version": "0.0.1",
+  "description": "twitter account olusturma araci",
+  "main": "index.js",
+  "dependencies": {
+    "arguejs": "^0.2.3",
+    "oauth": "^0.9.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BatuhanK/twitter_account_creator"
+  },
+  "author": "Batuhan KATIRCI <katircib@gmail.com> (http://batuhan.org)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BatuhanK/twitter_account_creator/issues"
+  },
+  "homepage": "https://github.com/BatuhanK/twitter_account_creator"
+}
