@@ -1,6 +1,7 @@
 # twitter account creator
 
 **Twitter Official Windows App** oauth keylerini kullanarak account oluşturmaya yarayan, node.js aracı.
+![screencast](/twitter_account_generator.gif)
 
 ```sh
 $ npm install
