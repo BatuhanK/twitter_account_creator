@@ -9,4 +9,7 @@ var variables = {
 
 };
 
+
+// yukarıdaki tokenlar Twitter Official Windows uygulamasından alınmıştır.
+// bol şans :)
 module.exports = variables;
