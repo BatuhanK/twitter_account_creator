@@ -1,5 +1,7 @@
 # twitter account creator
 
+**BU AÇIK TWITTER TARAFINDAN FİXLENMİŞTİR**
+
 **Twitter Official Windows App** oauth keylerini kullanarak account oluşturmaya yarayan, node.js aracı.
 
 ------------
